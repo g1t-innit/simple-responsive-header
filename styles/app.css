@@ -1,8 +1,10 @@
---color-one: #ffffff;
---color-two: #46d7ff;
---color-three: #2e4dff;
---primary-font: 'librebaskerville-regular';
---secondary-font: 'librebaskerville-bold';
+:root {
+    --color-one: #ffffff;
+    --color-two: #46d7ff;
+    --color-three: #2e4dff;
+    --primary-font: 'librebaskerville-regular';
+    --secondary-font: 'librebaskerville-bold';
+}
 
 * {
     margin: 0;
