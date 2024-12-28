@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'poppins-regular';
+    src: url(../fonts/Poppins-Regular.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'librebaskerville-regular';
+    src: url(../fonts/LibreBaskerville-Regular.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'librebaskerville-bold';
+    src: url(../fonts/LibreBaskerville-Bold.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'josefinsans-variablefont_wght';
+    src: url(../fonts/JosefinSans-VariableFont_wght.ttf) format(truetype);
+}
