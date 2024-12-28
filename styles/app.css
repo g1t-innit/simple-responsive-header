@@ -79,7 +79,7 @@ body {
 }
 
 .center__nav__link--active {
-    color: var(--color--one);
+    color: var(--color-one);
     background-image: linear-gradient(64deg, #2e4dff, #37a2ff);
     padding: 0.5rem 1rem;
     border-radius: 0.8rem;
